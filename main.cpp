@@ -12,7 +12,7 @@ int main(){
     cout << "整数b:" << endl;
     cin >> b;
 
-    cout << "a+b=" << nyanya.plus << endl;
+    cout << "a+b=" << nyanya.plus(a,b) << endl;
 
 
 
