@@ -13,8 +13,8 @@ int main(){
     cin >> b;
 
     cout << "a+b=" << nyanya.plus(a,b) << endl;
-
-
-
+    cout << "a-b=" << nyanya.minus(a,b) << endl;
+    cout << "a*b=" << nyanya.times(a,b) << endl;
+    cout << "a/b=" << nyanya.divide(a,b) << endl;
 
 }
