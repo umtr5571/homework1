@@ -9,7 +9,7 @@ class shisoku{
     int times(int a, int b);
     double divide(int a,int b);
     private:
-    double ans;
+    int ans;
 
 
 };
