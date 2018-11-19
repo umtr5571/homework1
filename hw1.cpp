@@ -12,3 +12,7 @@ int shisoku::minus(int a,int b){
 int shisoku::times(int a,int b){
     ans = a * b;
 }
+
+double shisoku::divide(int a,int b){
+    ans = (double)a/(double)b;
+}
